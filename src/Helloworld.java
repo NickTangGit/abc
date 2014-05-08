@@ -1,6 +1,10 @@
+import sun.print.resources.serviceui;
+
 
 public class Helloworld {
 	public static void main(String[] args){
-	    System.out.println("HELLO WORLD!");
+	    
+		  String a="Hello World!";
+		  System.out.println(a);
 	  }
 }
